@@ -1,0 +1,11 @@
+#socialLinks{
+
+    & a{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        gap: 16px;
+        font-size: 24px;
+    }
+}
