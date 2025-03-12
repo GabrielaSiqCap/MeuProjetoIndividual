@@ -7,7 +7,7 @@
 }
 
 :root {
-  --bg-url: url(./img/bg-desktop.jpg);
+  --bg-url: url(./img/desktopdark.jpg);
   --text-color: #fff;
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
@@ -17,13 +17,13 @@
 }
 
 .light {
-  --bg-url: url(./img/bg-desktop-light.jpg);
-  --text-color: #000;
-  --stroke-color: rgba(0, 0, 0, 0.5);
+  --bg-url: url(./img/desktoplight.jpg);
+  --text-color: #443627;
+  --stroke-color: #443627(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
-  --surface-color-hover: rgba(0, 0, 0, 0.5);
+  --surface-color-hover: rgba(0, 0, 0, 0.3);
   --switch-bg-url: url(./img/Sun.svg);
-  --highlight-color: rgba(0, 0, 0, 0.2);
+  --highlight-color: #443627(0, 0, 0, 0.2);
 }
 
 /* Modificações do body */

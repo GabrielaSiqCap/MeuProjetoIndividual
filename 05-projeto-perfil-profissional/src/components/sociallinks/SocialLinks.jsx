@@ -3,7 +3,7 @@ import styles from './SocialLinks.module.css'
 const SocialLinks = ({link, icon}) => {
   return (
      <a href={link}>
-        <ion-icon name={icon}></ion-icon>
+        <ion-icon name={icon} ></ion-icon>
      </a> 
   )
 }
